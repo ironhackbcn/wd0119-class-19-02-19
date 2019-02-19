@@ -1,0 +1,15 @@
+.btn {
+  padding: .5rem 1rem;
+  color: black;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+
+.primary {
+  color: blue;
+  border: 1px solid blue;
+}
+
+.large {
+  font-size: 2rem;
+}
